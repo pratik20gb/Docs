@@ -1,12 +1,16 @@
-# React + Vite
+# 📄 Docs — Mini Documentation Website (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 **Live Demo:** [Click Here](https://docs-llc5fhapx-pratik-rajs-projects-0adfcf06.vercel.app/)
 
-Currently, two official plugins are available:
+A modern, responsive, and sleek documentation-style website built for showcasing docs, guides, or project overviews.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ **Note:** This project is currently under development. Stay tuned for upcoming features and improvements!
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Technologies Used
+
+- **React.js**
+- **Tailwind CSS**
+- **Framer Motion**
+- **JavaScript (ES6+)**
